@@ -46,11 +46,11 @@ class MyApp extends StatelessWidget {
                 color: Colors.white,
                 child: ListTile(
                   leading: Icon(
-                    Icons.mail_outline,
+                    Icons.phone_android,
                     color: Colors.deepOrange,
                   ),
                   title: Text(
-                    'keshav.jaiswal39@gmail.com',
+                    '+91 9521 60 6351',
                     style: TextStyle(
                       color: Colors.deepOrange,
                       fontFamily: 'Source Sans Pro',
